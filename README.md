@@ -1,4 +1,4 @@
-This is the Google-Stocks-Time-Series-Forecasting-with-SARIMA-Model
+This is the Google-Stocks-Time-Series-Forecasting-with-SARIMA-Model.
 Forecasting using series data with the Autoregressive Integrated Moving Average model. Using this model, we can analyze and model time-series data to make future decisions. 
 Some of the applications of Time Series Forecasting are weather forecasting, sales forecasting, business forecasting, stock price forecasting, etc.
 
